@@ -1,5 +1,5 @@
 /**
- * @file exercise12.cpp
+ * @file exercise7.cpp
  * @author Gonzalo Agüero (gonzaloaguerodev@gmail.com)
  * @version 0.1
  * @date 2022-09-11
@@ -7,16 +7,14 @@
  * @copyright Copyright (c) 2022
  * 
  * PROBLEM DEFINITION
- * Escribir un programa que, teniendo una matriz de n x n, inicialice el valor de sus
- * elementos en forma de espiral desde el elemento central hacia fuera.
- * 
- * *********** ACOMODAR *************
+ * Escribir un programa que llene con una secuencia ordenada de números iniciada en 1,
+ * una matriz de afuera, comenzando desde el elemento (0,0) hacia adentro en forma de espiral.
  */
 #include <iostream>
-using namespace std;
 #define FILAS 6
 #define COLUMNAS 6
 using namespace std;
+
 int main(int argc, char *argv[]) {
 	int M[FILAS][COLUMNAS] = {}, contador = 1;
 	
