@@ -6,7 +6,6 @@
  * 
  * @copyright Copyright (c) 2022
  * 
- * PROBLEM DEFINITION
  * Escribir un programa que llene con una secuencia ordenada de números iniciada en 1,
  * una matriz de afuera, comenzando desde el elemento (0,0) hacia adentro en forma de espiral.
  */

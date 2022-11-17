@@ -6,7 +6,6 @@
  * 
  * @copyright Copyright (c) 2022
  * 
- * PROBLEM DEFINITION
  * Un cuadrado mágico es una disposición de números naturales en una tabla cuadrada, de
  * forma tal que las sumas de cada columna, de cada fila y de cada diagonal son iguales. Los cuadrados
  * mágicos más populares son aquellos que tienen los números consecutivos desde el 1 hasta n^2, donde
